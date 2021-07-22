@@ -1,0 +1,66 @@
+C:/Modeltech_pe_edu_10.4a/examples/mu0_final/PC_reg.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mu0_final/PC_reg.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC_reg
+
+Top level modules:
+	PC_reg
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mu0_final/IR_reg.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mu0_final/IR_reg.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IR_reg
+
+Top level modules:
+	IR_reg
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mu0_final/ACC_reg.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mu0_final/ACC_reg.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ACC_reg
+
+Top level modules:
+	ACC_reg
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mu0_final/memory.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mu0_final/memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mu0_final/memory_extended.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mu0_final/memory_extended.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module memory_extended
+
+Top level modules:
+	memory_extended
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mu0_final/mux2_to_1.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mu0_final/mux2_to_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2_to_1
+
+Top level modules:
+	mux2_to_1
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mu0_final/mu0.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mu0_final/mu0.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mu0
+-- Compiling module tri16bit
+-- Compiling module sync_rst
+
+Top level modules:
+	mu0
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mu0_final/FSM.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mu0_final/FSM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mu0_final/ALU.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mu0_final/ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}
